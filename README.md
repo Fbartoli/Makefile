@@ -1,2 +1,2 @@
 # Makefile
-Template
+Make Template
